@@ -60,7 +60,8 @@ endmodule
 *Output:*
 ![Screenshot 2024-12-24 212412](https://github.com/user-attachments/assets/00501f85-a94d-4d78-a303-6dcffe12dc62)
 ![Screenshot 2024-12-24 212757](https://github.com/user-attachments/assets/ed6c9853-6092-4d95-ac19-2e8b53e72ffa)
-![Screenshot 2024-12-24 212831](https://github.com/user-attachments/assets/d360256c-7505-40ed-878a-0ea1b8c1c88f)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad644b70-8152-433b-a743-27d7fc71c4b9" />
+
 
 
 
